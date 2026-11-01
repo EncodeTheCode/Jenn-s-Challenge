@@ -1,2 +1,2 @@
-# Jenn-s-Challenge
-Jenns Challenge Game
+# Jenn's-Challenge
+This is the Jenn's Challenge game.
