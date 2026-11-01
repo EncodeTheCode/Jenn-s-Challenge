@@ -1,5 +1,22 @@
 # Jenn's Challenge – v34
 
+## Screenshots
+
+### Main Screenshot
+![Jenn's Challenge](screenshots/jenns_challenge.png)
+
+### Level 5
+![Jenn's Challenge - Level 5](screenshots/jenn_level5.png)
+
+### Level 8
+![Jenn's Challenge - Level 8](screenshots/jenn_level8.png)
+
+### Swimming Upwards
+![Jenn's Challenge - Swimming Upwards](screenshots/jenn_swimming_upwards.png)
+
+### Walking
+![Jenn's Challenge - Walking](screenshots/jenn_walking.png)
+
 This build fixes authored waypoint movement for Spider and tile-linked custom monsters.
 
 ## Authored monster paths
