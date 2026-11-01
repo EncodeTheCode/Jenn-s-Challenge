@@ -1,4 +1,4 @@
-# Chip's Challenge – v34
+# Jenn's Challenge – v34
 
 This build fixes authored waypoint movement for Spider and tile-linked custom monsters.
 
