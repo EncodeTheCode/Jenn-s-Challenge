@@ -1,20 +1,22 @@
-# Jenn's Challenge – v34
+# Jenn's Challenge
 
-## Screenshots
+## Screenshots taken from the game
 
-### Main Screenshot
+### Level 001
 ![Jenn's Challenge](screenshots/jenns_challenge.png)
 
-### Level 5
+### Level 005
 ![Jenn's Challenge - Level 5](screenshots/jenn_level5.png)
 
-### Level 8
+### Level 008
 ![Jenn's Challenge - Level 8](screenshots/jenn_level8.png)
 
-### Swimming Upwards
+More levels can be added via the map editor, some levels have been faithfully recreated, some features still needs to be added to make the full experience a reality, for now this is half of the game in it's entirety which is more than enough to have fun. Enjoy!
+
+### Jenn swimming
 ![Jenn's Challenge - Swimming Upwards](screenshots/jenn_swimming_upwards.png)
 
-### Walking
+### Jenn walking
 ![Jenn's Challenge - Walking](screenshots/jenn_walking.png)
 
 This build fixes authored waypoint movement for Spider and tile-linked custom monsters.
